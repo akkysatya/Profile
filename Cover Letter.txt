@@ -1,0 +1,25 @@
+Dear Mr. / Mrs. / Ms. Hiring Manager
+
+I am writing to apply for the position of Devops Engineer, as advertised on Job Portal.My over 7+ years of Devops Engineer,Cloud Solution Architect and Test Automation 
+experience includes responsibilities such as supporting, automating, and optimizing mission critical deployments in AWS, leveraging configuration management, CI/CD, 
+and DevOps processes.
+This role requires me to lead the Creating AWS instances and Managing credentials on the account and manages the cloud services Including EC2, Route53, S3, RDS, IAM, 
+VPC, ELB, EBS, Auto Scaling, and Cloud watch and Automation of build process (Build Automation) using the Jenkins, Maven and Git.
+
+
+I am a solutions-oriented person who thrives in challenging, fast-paced environments where my performance directly impacts the bottom line. 
+I believe that my strong background in IT combined with my extensive experience, makes me ideally suited to this role. 
+
+I bring to your company my years of relevant experience and my drive for results and positive outcomes. I am prepared for the next challenge in my career and look 
+forward to hearing from you. 
+
+Thank you for your time and consideration. 
+
+
+Best Regards,
+Sathyanarayana Allam
+
+
+
+
+
